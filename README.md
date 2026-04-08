@@ -81,27 +81,4 @@ The dashboard is built on WHO-sourced global health data including:
 5. Use the **Men/Women toggle**, **indicator buttons**, and **year slider** to filter the data interactively
 6. Use the **Country dropdown** on Page 2 to focus on a specific country
 
-> **Note:** Power BI Desktop is free to download from [Microsoft's website](https://powerbi.microsoft.com/desktop/).
 
----
-
-## 📸 Screenshots
-
-### Global Health Trends
-![Global Health Trends Page](screenshots/global_health_trends.png)
-
-### Country Deep Dive
-![Country Deep Dive Page](screenshots/country_deep_dive.png)
-
----
-
-## 👤 Author
-
-**Nandini Devadiga**  
-[GitHub Profile](https://github.com/NandiniDevadiga)
-
----
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
